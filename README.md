@@ -1,1 +1,6 @@
-# php_notlar
+# PHP Ders Notlarımız
+
+Plaka|Il|Bölge
+---|---|---
+06|Ankara|İç Anadolu
+34|İsatnabul|Marmara
