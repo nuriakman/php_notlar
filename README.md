@@ -3,4 +3,4 @@
 Plaka|Il|Bölge
 ---|---|---
 06|Ankara|İç Anadolu
-34|İsatnabul|Marmara
+34|İstanbul|Marmara
